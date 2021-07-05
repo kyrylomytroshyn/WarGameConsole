@@ -1,0 +1,30 @@
+{
+  "seed": 3003,
+  "teams":
+          [
+            {
+              "name": "First",
+              "strategy": "Weakest",
+              "count of squads": 3,
+              "count of vehicles": 2,
+              "count of soldiers": 3,
+              "count of soldiers in vehicle": 4
+            },
+            {
+              "name": "Second",
+              "strategy": "Strongest",
+              "count of squads": 3,
+              "count of vehicles": 2,
+              "count of soldiers": 3,
+              "count of soldiers in vehicle": 4
+            },
+            {
+              "name": "Third",
+              "strategy": "Random",
+              "count of squads": 3,
+              "count of vehicles": 2,
+              "count of soldiers": 3,
+              "count of soldiers in vehicle": 4
+            }
+          ]
+}
